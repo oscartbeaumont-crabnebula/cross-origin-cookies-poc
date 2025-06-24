@@ -1,4 +1,4 @@
-# testing
+# cross-origin-cookies-poc
 
 To install dependencies:
 
